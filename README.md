@@ -12,6 +12,7 @@ Actualmente estoy fortaleciendo mis conocimientos en **arquitectura de software,
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge\&logo=fastapi\&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TYPESCRIPT-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
 ![Angular](https://img.shields.io/badge/ANGULAR-DD0031?style=for-the-badge\&logo=angular\&logoColor=white)
+![React](https://img.shields.io/badge/REACT-0078D4?style=for-the-badge\&logo=react\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
