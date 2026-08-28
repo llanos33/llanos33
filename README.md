@@ -23,9 +23,9 @@ Actualmente estoy fortaleciendo mis conocimientos en **arquitectura de software,
 
 ## 🚀 Proyectos Destacados
 
-### Sistema de Gestión de Solicitudes
+### Tienda de Mascotas
 
-[Repositorio](URL_DEL_REPOSITORIO)
+[Repositorio]((https://github.com/llanos33/Petmatch.git))
 
 * Aplicación **full stack con Angular y FastAPI**.
 * Desarrollo de **API REST** y lógica de negocio.
