@@ -16,8 +16,6 @@ Actualmente estoy fortaleciendo mis conocimientos en **arquitectura de software,
 ![PostgreSQL](https://img.shields.io/badge/POSTGRESQL-4169E1?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
 ![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![Linux](https://img.shields.io/badge/LINUX-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
-![Azure](https://img.shields.io/badge/AZURE-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
 
 ---
 
