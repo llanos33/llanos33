@@ -27,11 +27,15 @@ Actualmente estoy fortaleciendo mis conocimientos en **arquitectura de software,
 
 [Repositorio](https://github.com/llanos33/Petmatch.git)
 
-* Aplicación **full stack con Angular y FastAPI**.
-* Desarrollo de **API REST** y lógica de negocio.
-* Persistencia de datos con **PostgreSQL**.
-* Autenticación y manejo de permisos.
-* Integración con servicios externos.
+- ✅ Catálogo de productos organizado por categorías.
+- ✅ Búsqueda y filtrado de productos.
+- ✅ Vista detallada de cada producto.
+- ✅ Carrito de compras con gestión de cantidades.
+- ✅ Flujo de checkout para finalizar pedidos.
+- ✅ Control y actualización de stock.
+- ✅ API REST para la gestión de productos y órdenes.
+- ✅ Interfaz responsive para dispositivos móviles y escritorio.
+- ✅ Arquitectura separada entre frontend y backend.
 
 ---
 
