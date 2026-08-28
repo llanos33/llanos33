@@ -37,6 +37,23 @@ Actualmente estoy fortaleciendo mis conocimientos en **arquitectura de software,
 - ✅ Interfaz responsive para dispositivos móviles y escritorio.
 - ✅ Arquitectura separada entre frontend y backend.
 
+### Falabella-Clone
+
+[Repositorio](https://github.com/llanos33/Falabella-Clone.git)
+
+- ✅ Página de inicio con productos destacados, categorías y promociones.
+- ✅ Catálogo de productos con filtros por categoría, precio y otros criterios.
+- ✅ Vista detallada de cada producto.
+- ✅ Carrito de compras con gestión de productos y cantidades.
+- ✅ Flujo de checkout para completar una compra.
+- ✅ Registro e inicio de sesión de usuarios.
+- ✅ Autenticación mediante JWT.
+- ✅ API REST para la gestión de productos, usuarios y órdenes.
+- ✅ Persistencia de datos con PostgreSQL.
+- ✅ Interfaz responsive para dispositivos móviles y escritorio.
+- ✅ Arquitectura separada entre frontend y backend.
+- ✅ Entorno de desarrollo contenerizado con Docker.
+
 ---
 
 ## 🌐 Conéctate conmigo
